@@ -8,7 +8,8 @@ public class gitDummies {
 
 		System.out.println("my name is moe "); 
 
-		System.out.println("yes"); 
+		System.out.println("yes");
+			System.out.println("test"); 
 
 		}
 	
