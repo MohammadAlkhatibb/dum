@@ -4,6 +4,7 @@ public class gitDummies {
 
 			System.out.println("hi");
 				System.out.println("hi");
+		System.out.println("from github "); 
 		}
 
 }
